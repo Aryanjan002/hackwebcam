@@ -1,6 +1,6 @@
 #!/bin/bash
 # SayCheese v1.0
-# coded by: github.com/Aryanjan002/hackwebcam
+# coded by: ARYAN HACKER subscribe my YouTube channel ARYAN MASTER
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
